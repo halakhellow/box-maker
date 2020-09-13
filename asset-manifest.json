@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/box-maker/static/css/main.5f361e03.chunk.css",
+    "main.js": "/box-maker/static/js/main.a25a6dd3.chunk.js",
+    "main.js.map": "/box-maker/static/js/main.a25a6dd3.chunk.js.map",
+    "runtime-main.js": "/box-maker/static/js/runtime-main.bcbcb8e7.js",
+    "runtime-main.js.map": "/box-maker/static/js/runtime-main.bcbcb8e7.js.map",
+    "static/js/2.728feacd.chunk.js": "/box-maker/static/js/2.728feacd.chunk.js",
+    "static/js/2.728feacd.chunk.js.map": "/box-maker/static/js/2.728feacd.chunk.js.map",
+    "index.html": "/box-maker/index.html",
+    "precache-manifest.6d4774ed0ec15f2391853bdd5c9212e6.js": "/box-maker/precache-manifest.6d4774ed0ec15f2391853bdd5c9212e6.js",
+    "service-worker.js": "/box-maker/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/box-maker/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.728feacd.chunk.js.LICENSE.txt": "/box-maker/static/js/2.728feacd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcbcb8e7.js",
+    "static/js/2.728feacd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a25a6dd3.chunk.js"
+  ]
+}
